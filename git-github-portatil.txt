@@ -2,3 +2,11 @@
 
 2º git config --global user.name
    gti config --global user.email
+
+3º git add <nombre archivo>
+
+4º git commit -m "Primer"
+
+5º Después de crear el repo en github se procedera a subir desde git a github
+
+6º Añaden edtos cambios en local y se empieza la parte desde github 
