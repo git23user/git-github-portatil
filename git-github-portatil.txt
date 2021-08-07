@@ -1,0 +1,4 @@
+1º Inicializar repositorio local -> git init
+
+2º git config --global user.name
+   gti config --global user.email
