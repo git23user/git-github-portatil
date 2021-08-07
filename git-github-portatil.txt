@@ -14,3 +14,9 @@
 Modificación hecha desde github
 Maravilloso -> haciendo los tres pasos que venian en git funciona sin problemas.
 Ahora toca modificar estos cambios y ver si tambien se actualizan en git (local)
+
+
+--Exito total--
+Desde el portátil no me bajo el repo sino lo "clono" se hace una clonación y así se descarga todo el contenido
+
+git clone https://github.com/user_name/nombre_repo_clonar
