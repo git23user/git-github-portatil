@@ -13,4 +13,4 @@
 
 Modificación hecha desde github
 Maravilloso -> haciendo los tres pasos que venian en git funciona sin problemas.
-Ahora toca modificar estos cambios y ver si tambien se actualizan en git (loccal)
+Ahora toca modificar estos cambios y ver si tambien se actualizan en git (local)
