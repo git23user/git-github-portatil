@@ -10,3 +10,7 @@
 5º Después de crear el repo en github se procedera a subir desde git a github
 
 6º Añaden edtos cambios en local y se empieza la parte desde github 
+
+Modificación hecha desde github
+Maravilloso -> haciendo los tres pasos que venian en git funciona sin problemas.
+Ahora toca modificar estos cambios y ver si tambien se actualizan en git (loccal)
