@@ -22,3 +22,4 @@ Desde el portátil no me bajo el repo sino lo "clono" se hace una clonación y a
 git clone https://github.com/user_name/nombre_repo_clonar
 
 --Añadido desde el portatil e incorporado a github
+git push https://github.com/usuario/nombre_repo
