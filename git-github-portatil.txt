@@ -20,3 +20,5 @@ Ahora toca modificar estos cambios y ver si tambien se actualizan en git (local)
 Desde el portátil no me bajo el repo sino lo "clono" se hace una clonación y así se descarga todo el contenido
 
 git clone https://github.com/user_name/nombre_repo_clonar
+
+--Añadido desde el portatil e incorporado a github
